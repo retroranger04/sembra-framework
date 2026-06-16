@@ -1,0 +1,14 @@
+# Runtime dependencies for SEMBRA_CC (mirrors pyproject.toml).
+numpy==2.4.4
+pandas==3.0.3
+scipy==1.17.1
+sympy==1.14.0
+cloudpickle==3.1.2
+scikit-learn==1.8.0
+torch==2.12.0
+matplotlib==3.10.8
+nbformat
+jupyter==1.1.1
+
+# For running the test suite (optional):
+pytest

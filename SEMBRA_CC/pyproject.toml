@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sembra_cc"
+version = "1.0.0"
+description = "Millisecond surrogate for the equilibrium and limit-point instability of a charge-controlled dielectric elastomer membrane."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "sympy",
+    "cloudpickle",
+    "scikit-learn",
+    "torch",
+    "matplotlib",
+    "nbformat",
+    "jupyter",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["sembra_cc"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

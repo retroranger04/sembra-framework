@@ -1,0 +1,5 @@
+﻿# Ignore everything at the A: drive root except the two packages
+/*
+!/SEMBRA
+!/SEMBRA_CC
+!/.gitignore
