@@ -40,8 +40,11 @@ See the individual package READMEs for dependency details.
 
 ## Citation
 
-Citation: paper in preparation; the citation will be added here upon 
-publication.
+If you use this software, please cite the archived release:
+
+> Kumar, N., Mathur, A., & DasGupta, A. (2026). *SEMBRA Framework: Surrogate models for instability of dielectric elastomer membranes* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20723832
+
+The accompanying paper is in preparation; its citation will be added here upon publication.
 
 ## License
 
