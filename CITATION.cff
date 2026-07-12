@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SEMBRA Framework: Surrogate models for instability of dielectric elastomer membranes"
+abstract: >-
+  A surrogate framework for predicting the equilibrium state and
+  stability of an inflated circular dielectric elastomer membrane under
+  combined mechanical pressure and electrical actuation. Ships two
+  Python packages: sembra_vc (voltage-controlled actuation) and
+  sembra_cc (charge-controlled actuation). Each package provides a
+  trained neural surrogate, Gaussian process envelope models, an
+  analytical symbolic core, and an inference wrapper. Companion code to
+  the paper by Kumar, Mathur, and DasGupta.
+type: software
+version: "2.0.0"
+date-released: "2026-07-12"
+license: MIT
+repository-code: "https://github.com/retroranger04/sembra-framework"
+url: "https://github.com/retroranger04/sembra-framework"
+doi: 10.5281/zenodo.20723832
+authors:
+  - family-names: Kumar
+    given-names: Nirmal
+    affiliation: "Department of Mechanical Engineering, Birla Institute of Technology Mesra, Ranchi 835215, India"
+  - family-names: Mathur
+    given-names: Arpit
+    affiliation: "Department of Mechanical Engineering, Birla Institute of Technology Mesra, Ranchi 835215, India"
+  - family-names: DasGupta
+    given-names: Anirvan
+    affiliation: "Department of Mechanical Engineering, Indian Institute of Technology Kharagpur, Kharagpur 721302, India"
+keywords:
+  - dielectric elastomer
+  - electromechanical instability
+  - surrogate model
+  - physics-informed machine learning
+  - neural network
+  - gaussian process
+  - pytorch
+  - research software
+  - paper companion
