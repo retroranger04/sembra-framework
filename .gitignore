@@ -1,5 +1,9 @@
-﻿# Ignore everything at the A: drive root except the two packages
+# Ignore everything at the repo root except tracked packages and metadata files
 /*
-!/SEMBRA
-!/SEMBRA_CC
+!/sembra_vc
+!/sembra_cc
 !/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/CITATION.cff
+!/LICENSE
