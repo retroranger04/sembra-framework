@@ -2,9 +2,7 @@
 
 **Surrogate for Elastomer Membrane Behavior under Radial loading and Actuation** — a surrogate framework for dielectric elastomer membrane instability.
 
-This repository accompanies the paper *On the Instability of Inflated
-Dielectric Elastomer Membranes: Energy-Based Analysis and a Surrogate
-Modeling Framework* by Kumar, Mathur, and DasGupta. It provides two
+This repository accompanies the paper *On the Hessian-Based Stability Analysis of Inflated Dielectric Elastomer Membranes Using a Reduced-Order Ritz Formulation and Surrogate Modeling* by Kumar, Mathur, and DasGupta. It provides two
 neural-surrogate packages that predict the equilibrium state and
 stability of an inflated circular dielectric elastomer membrane under
 combined mechanical pressure and electrical actuation.
